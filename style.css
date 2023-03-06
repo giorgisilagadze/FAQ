@@ -4,7 +4,9 @@
 }
 
 body {
-    background-color: #B068E9;
+    background: linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
+    height: 100vh;
+    overflow-y: hidden;
 }
 
 .main-div {
